@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 [![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Aswin)](https://github.com/G-Aswin/github-readme-stats)
 
 - 🏫 I'm currently a B.E Student in RNS Institute of Technology, Bengaluru.
-- 🔭 I’m currently working in Airprobe as a Backend Developer Intern.
-- 🌱 I’m currently learning how to build end to end REST APIs.
+- 👓 I'm currently working as a Research Intern (Compilers) under Prof. Gaurav Trivedi (IIT Guwahati).
+- 🔭 I’m used to work for DroneBase as a Backend Developer Intern.
 - 📚 I'm also really interested in core computer science fields like computer systems and compilers.
 - 👯 I’m looking to collaborate on any interesting projects in a broad set of technologies.
 
