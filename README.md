@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 [![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Aswin)](https://github.com/G-Aswin/github-readme-stats)
 
-- 🏫 I'm currently a B.E Student in RNS Institute of Technology, Bengaluru.
-- 👓 I'm currently working as a Research Intern (Compilers) under Prof. Gaurav Trivedi (IIT Guwahati).
-- 🔭 I’m used to work for DroneBase as a Backend Developer Intern.
+- 🏫 I completed my B.E Computer Science in RNS Institute of Technology, Bengaluru.
+- 👓 I'm currently working as a Graphics Performance Engineer at Intel.
+- 🔭 I've also previously worked for Dronebase as a Backend Development Intern and Research Intern at IITG under Prof. Gaurav Trivedi.
 - 📚 I'm also really interested in core computer science fields like computer systems and compilers.
 - 👯 I’m looking to collaborate on any interesting projects in a broad set of technologies.
 
