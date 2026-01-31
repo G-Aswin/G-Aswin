@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📚 My core interests are Computer Architecture and Systems. I love to write code very close to hardware!
 - 👯 Feel free to reach out to me through my socials listed below!
 
-[![Portfolio Website (WIP)]([https://badges.pufler.dev/visits/G-Aswin/G-Aswin](https://img.shields.io/badge/Outdated_Website-purple?style=flat))](https://g-aswin.github.io)
+[Portfolio Website](https://g-aswin.github.io)
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/g-aswin/)
 <!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
